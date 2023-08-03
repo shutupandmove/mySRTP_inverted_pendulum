@@ -1,0 +1,3 @@
+【（外）初识无刷电机】https://www.youtube.com/watch?v=bCEiOnuODac
+【（外）无刷电机coding教程_5-1】https://www.youtube.com/watch?v=_aAwbQtJsLo&t=0s
+【simpleFOC-BLDC闭环实践】https://www.bilibili.com/video/BV11a411A7eK?spm_id_from=333.999.0.0&vd_source=f38530d6f178163c2d9722c77c97093d
