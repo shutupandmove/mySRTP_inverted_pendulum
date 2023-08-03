@@ -1,0 +1,4 @@
+ZN振荡：kp` = 0.1159，Ku = 1.57，Tu = 32.908s
+kpmin = 0.32Ku = 0.5024,kpmax = 0.6Ku = 0.942
+kimin = 0.32Tu = 10.53056,kimax = 0.47Tu = 15.46676
+kdmin = 2Tu = 65.816，kdmax = 5Tu = 164.54

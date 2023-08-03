@@ -1,0 +1,3 @@
+1设置约束：包括摆杆最大偏移角，反应轮最大角速度，摆杆角度沉降时间（参考研究型文献1）
+2【pid编程的基本法】https://blog.csdn.net/My_Communication/article/details/119866447
+3【arduino PID库使用】https://www.cnblogs.com/FZLGYZ/p/11696252.html

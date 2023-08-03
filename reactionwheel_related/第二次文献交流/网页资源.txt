@@ -1,0 +1,10 @@
+①【（外）arduinoUNO+arduino simplefocshield+编码器×2+无刷直流电机IPower GBM4198H-120T】
+（介绍）https://docs.simplefoc.com/simplefoc_pendulum
+（详情）https://github.com/simplefoc/Arduino-FOC-reaction-wheel-inverted-pendulum
+方案配置  无刷直流电机+位置传感器+无刷直流驱动器（simpleFOC）+arduinoUNO
+
+③方案在文献中(②方案同样数学化，弃)
+方案配置  arduinoUNO+有刷直流电机（带编码器）+IMU（惯性测量单元）
+
+操作中的关键（被测量：摆锤的角度、速度，反应轮速度————和状态量相对应）
+
